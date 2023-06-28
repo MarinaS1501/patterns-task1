@@ -1,6 +1,7 @@
-# Домашнее задание к занятию «2.2. Selenide»
+# Домашнее задание к занятию «2.3. Patterns»
 
-# Project sample [![Build status](https://ci.appveyor.com/api/projects/status/ncdvo08c8e66l5fi/branch/master?svg=true)](https://ci.appveyor.com/project/MarinaS1501/carddelivery/branch/master)
+# Project sample [![Build status](https://ci.appveyor.com/api/projects/status/4j0xfxdbvncbpnlx/branch/master?svg=true)](https://ci.appveyor.com/project/MarinaS1501/patterns-task1/branch/master)
+
 
 
 
